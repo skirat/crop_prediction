@@ -26,6 +26,7 @@ $ git clone https://github.com/rahuldkjain/Crop_Prediction.git
 $ cd Crop_Prediction
 $ pip install -r requirements.txt
 $ python app.py
+'''
 
 ## Designed & Developed with :sparkling_heart: by
 * Kirat Pal Singh Lamba (RA1611020010003)
